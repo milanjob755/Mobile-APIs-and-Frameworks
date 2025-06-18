@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61278679493",
+    "project_id": "fir-authapp-1a4cd",
+    "storage_bucket": "fir-authapp-1a4cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61278679493:android:dddbd70b720b5ad9fcdbac",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp50fG7Fr6pkKQ37w6u6-1_uqNbF7axpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61278679493:android:1cfcc2a9823e9f2dfcdbac",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp50fG7Fr6pkKQ37w6u6-1_uqNbF7axpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
